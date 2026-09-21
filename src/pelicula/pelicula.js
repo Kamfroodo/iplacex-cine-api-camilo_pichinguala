@@ -1,7 +1,7 @@
 const Pelicula = {
   _id: 'ObjectId',
   nombre: 'string',
-  géneros: 'array',
+  generos: 'array',
   anioEstreno: 'int'
 }
 
