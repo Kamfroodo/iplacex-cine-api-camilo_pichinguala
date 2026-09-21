@@ -1,1 +1,1 @@
-# iplacex-cine-api-camilo_pichinguala
+API REST Express para administración de películas favoritas de empleados de IPLACEX
